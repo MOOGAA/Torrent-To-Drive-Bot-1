@@ -64,7 +64,7 @@ log - Bot Log [owner only]
 
 # How to deploy?
 - Easy Method
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kiran-web-star/Torrent-To-Drive-Bot-1/tree/master)
 
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
